@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-11T23:32:56.167Z" agent="5.0 (X11)" etag="MuXIVn8c1fj6C7mtGSbM" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-16T21:37:40.918Z" agent="5.0 (X11)" etag="amPykDRWqYrO2zPBcHSL" version="14.4.7" type="github">
   <diagram id="0k0tagOICq-q-ye2znuc" name="Page-1">
     <mxGraphModel dx="1537" dy="719" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -561,6 +561,11 @@
         <UserObject label="faltas" lucidchartObjectId="_Rmjj1_~6CR-" id="CtVRzFDIOBK6Ej2HareU-205">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;whiteSpace=wrap;fontSize=13;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;" parent="1" vertex="1">
             <mxGeometry x="-99" y="454.00333333333333" width="97" height="23.466666666666672" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="possui" lucidchartObjectId="UzmjYmP2OxTb" id="jahCmNST--RXteeN608X-1">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=rhombus;whiteSpace=wrap;fontSize=13;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="-647" y="513.25" width="112" height="101.5" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
